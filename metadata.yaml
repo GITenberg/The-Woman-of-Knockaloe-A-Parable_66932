@@ -1,0 +1,26 @@
+_repo: The-Woman-of-Knockaloe-A-Parable_66932
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Caine, Hall, Sir
+    aliases:
+    - Caine, Thomas Henry Hall, Sir
+    - Caine, Sir Hall
+    - Caine, T. Hall, Sir
+    birthdate: 1853
+    deathdate: 1931
+    gutenberg_agent_id: '591'
+    url: http://www.gutenberg.org/2009/agents/591
+    wikipedia: https://en.wikipedia.org/wiki/Hall_Caine
+description: ''
+gutenberg_issued: '2021-12-12'
+identifiers:
+  gutenberg: '66932'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Woman of Knockaloe: A Parable'
+url: http://www.gutenberg.org/ebooks/66932
