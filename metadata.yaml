@@ -1,5 +1,8 @@
 _repo: The-Woman-of-Knockaloe-A-Parable_66932
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66932-h/images/cover.jpg
 creator:
   author:
     agent_name: Caine, Hall, Sir
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/591
     wikipedia: https://en.wikipedia.org/wiki/Hall_Caine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66932#The-Woman-of-Knockaloe-A-Parable
 gutenberg_issued: '2021-12-12'
 identifiers:
   gutenberg: '66932'
